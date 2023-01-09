@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @edtervit
 - 👀 I’m interested in ... Building full stack web applications.
 - 🌱 I’m currently learning ... Laravel, React, Vue, Next.Js
-- 💞️ I’m looking to collaborate on ... not much atm.
+- 💞️ I’m looking for work! Please get in touch.
+- 🧾 My portfolio website ... edtervit.co.uk
 - 📫 How to reach me ... ed@edtervit.co.uk
 
 <!---
